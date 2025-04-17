@@ -13,7 +13,7 @@ Ce projet est une application web de piano interactif développée en HTML, CSS 
     ├── key1.mp3
     ├── key2.mp3
     └── ...            # Tous les sons des touches du piano
-```  
+ ```  
 ## Fonctionnalités
 ✅ Affichage d'un clavier de piano avec touches blanches et noires.
 
