@@ -27,7 +27,6 @@ Ce projet est une application web de piano interactif développée en HTML, CSS 
 
 ## Contrôles Clavier
 
-**Touche	Action**
 A-J :	Jouer les touches blanches
 Q-P :	Jouer les touches noires
 ←	: Octave gauche
