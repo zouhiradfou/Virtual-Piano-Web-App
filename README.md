@@ -23,20 +23,16 @@ Ce projet est une application web de piano interactif développée en HTML, CSS 
 
 ✅ Utilisation du clavier physique pour jouer du piano :
 
-Touches A à J pour les touches blanches.
 
-Touches Q à P pour les touches noires.
-
-Flèche gauche (←) et flèche droite (→) pour changer l’octave jouée.
 
 ## Contrôles Clavier
 
-Touche	Action
-A-J	Jouer les touches blanches
-Q-P	Jouer les touches noires
-←	Octave gauche
-→	Octave droite
-+ / -	Augmenter ou diminuer le volume
+**Touche	Action**
+A-J :	Jouer les touches blanches
+Q-P :	Jouer les touches noires
+←	: Octave gauche
+→	: Octave droite
++ / - :	Augmenter ou diminuer le volume
 
 
 ## Technologies utilisées
